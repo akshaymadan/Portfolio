@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Akshay Madan</title>
+    <link>https://akshaymadan.github.io/akshay_portfolio/tags/scene/</link>
+    <description>Recent content in scene on Akshay Madan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 May 2020 11:14:48 -0400</lastBuildDate>
+    
+	<atom:link href="https://akshaymadan.github.io/akshay_portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 4 : Comcast</title>
+      <link>https://akshaymadan.github.io/akshay_portfolio/post/project-4/</link>
+      <pubDate>Wed, 20 May 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://akshaymadan.github.io/akshay_portfolio/post/project-4/</guid>
+      <description>Data Analysis Import data into Python environment. Provide the trend chart for the number of complaints at monthly and daily granularity levels. Provide a table with the frequency of complaint types.
+  Which complaint types are maximum i.e., around internet, network issues, or across any other domains. Create a new categorical variable with value as Open and Closed. Open &amp;amp; Pending is to be categorized as Open and Closed &amp;amp; Solved is to be categorized as Closed.</description>
+    </item>
+    
+  </channel>
+</rss>
